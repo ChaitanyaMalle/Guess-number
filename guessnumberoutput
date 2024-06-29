@@ -1,0 +1,48 @@
+May I ask you for your name?
+Enter your name: chaitu
+chaitu, we are going to play a game. I am thinking of a number between 1 and 200
+Go ahead. Guess!
+Guess: 150
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 15
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 50
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 90
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 70
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 85
+Nope. The number I was thinking of was 73
+Do you want to play again?
+y
+May I ask you for your name?
+Enter your name: vyshu
+vyshu, we are going to play a game. I am thinking of a number between 1 and 200
+Go ahead. Guess!
+Guess: 80
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 90
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 150
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 170
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 190
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 200
+Good job, vyshu! You guessed my number in 6 guesses!
+Do you want to play again?
+n
+
+Process finished with exit code 0
